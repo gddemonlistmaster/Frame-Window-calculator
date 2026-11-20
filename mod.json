@@ -1,3 +1,4 @@
+
 {
   "geode": "5.10.1",
   "gd": {
@@ -7,8 +8,5 @@
   "name": "Macro Player",
   "version": "1.0.0",
   "developer": "Custom",
-  "description": "Macro player interface for Geometry Dash",
-  "dependencies": {
-    "geode.loader": ">=5.10.1"
-  }
+  "description": "Macro player interface for Geometry Dash"
 }
